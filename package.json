@@ -1,5 +1,5 @@
 {
-  "name": "dictionary-app",
+  "name": "fem-dictionary-web-app",
   "version": "1.0.0",
   "description": "Front-end mentor dictionary web app",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kailash1233/dictionary-app.git"
+    "url": "git+https://github.com/jefcooper/fem-dictionary-web-app.git"
   },
-  "author": "Kailash",
+  "author": "Jeff Cooper",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Kailash1233/dictionary-app/issues"
+    "url": "https://github.com/jefcooper/fem-dictionary-web-app/issues"
   },
-  "homepage": "https://github.com/Kailash1233/dictionary-app#readme",
+  "homepage": "https://github.com/jefcooper/fem-dictionary-web-app#readme",
   "devDependencies": {
     "glob": "^8.0.3",
     "path": "^0.12.7",
