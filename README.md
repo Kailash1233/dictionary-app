@@ -1,3 +1,5 @@
+#DICTIONARY APP
+
 It appears that the project you're trying to run uses Vite as its build tool and development server. Here are the steps to run the `dictionary-app` project on your localhost:
 
 1. **Clone the Repository:**
